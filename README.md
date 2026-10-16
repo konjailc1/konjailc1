@@ -40,6 +40,6 @@ Gemini API · Streamlit · Git/GitHub · Cursor
 4. Secrets stay in environment variables — never in code
 
 ## 📫 Contact
-- Upwork: <your Upwork profile link>
+- Upwork: https://www.upwork.com/freelancers/~01f05eba4d7af55aab
 - Portfolio: https://konjailc1.github.io
-- Email: <your public email>
+- Email: konjailc1@gmail.com
