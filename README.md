@@ -20,7 +20,7 @@ test every line I ship.
 ## 🚀 Featured projects
 | Project | What it does | Stack |
 |---|---|---|
-| [mykingdom-price-scraper](https://github.com/konjailc1/mykingdom-price-scraper) | MyKingdom toy prices & promotions → CSV/Excel | requests, Shopify JSON, pandas, openpyxl | |
+| [mykingdom-price-scraper](https://github.com/konjailc1/mykingdom-price-scraper) | MyKingdom toy prices & promotions → CSV/Excel | requests, Shopify JSON, pandas, openpyxl |
 | [news-scraper](https://github.com/konjailc1/news-scraper) | JS-rendered pages → JSON/CSV, robots.txt aware | Playwright |
 | [data-cleaning-toolkit](https://github.com/konjailc1/data-cleaning-toolkit) | Messy data → analysis-ready + quality report | pandas, Faker, pytest |
 | [excel-report-automation](https://github.com/konjailc1/excel-report-automation) | One-command weekly Excel report with charts | openpyxl |
@@ -29,7 +29,7 @@ test every line I ship.
 | [Portfolio & live demo](https://konjailc1.github.io) | All projects in one place + Streamlit dashboard | Streamlit, GitHub Pages |
 
 ## 🧰 Tech stack
-Python · requests · Shopify JSON · openpyxl · pandas · openpyxl · pdfplumber ·
+Python · requests · BeautifulSoup · Playwright · Shopify JSON · pandas · openpyxl · pdfplumber ·
 Gemini API · Streamlit · Git/GitHub · Cursor
 
 ## ✅ How I work
