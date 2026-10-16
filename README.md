@@ -20,7 +20,7 @@ test every line I ship.
 ## 🚀 Featured projects
 | Project | What it does | Stack |
 |---|---|---|
-| [ecommerce-price-scraper](https://github.com/konjailc1/ecommerce-price-scraper) | Catalogue prices → CSV/Excel | requests, BeautifulSoup, pandas |
+| [mykingdom-price-scraper](https://github.com/konjailc1/mykingdom-price-scraper) | Catalogue prices → CSV/Excel | requests, BeautifulSoup, pandas |
 | [news-scraper](https://github.com/konjailc1/news-scraper) | JS-rendered pages → JSON/CSV, robots.txt aware | Playwright |
 | [data-cleaning-toolkit](https://github.com/konjailc1/data-cleaning-toolkit) | Messy data → analysis-ready + quality report | pandas, Faker, pytest |
 | [excel-report-automation](https://github.com/konjailc1/excel-report-automation) | One-command weekly Excel report with charts | openpyxl |
