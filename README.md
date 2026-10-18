@@ -21,8 +21,8 @@ test every line I ship.
 | Project | What it does | Stack |
 |---|---|---|
 | [mykingdom-price-scraper](https://github.com/konjailc1/mykingdom-price-scraper) | MyKingdom toy prices & promotions → CSV/Excel | requests, Shopify JSON, pandas, openpyxl |
-| [news-scraper](https://github.com/konjailc1/news-scraper) | JS-rendered pages → JSON/CSV, robots.txt aware | Playwright |
-| [data-cleaning-toolkit](https://github.com/konjailc1/data-cleaning-toolkit) | Messy data → analysis-ready + quality report | pandas, Faker, pytest |
+| [news-scraper](https://github.com/konjailc1/news-scraper) | JS-rendered pages & CafeF headlines → CSV/Excel, robots.txt aware | Playwright, pandas |
+| [data-cleaning-toolkit](https://github.com/konjailc1/data-cleaning-toolkit) | Messy CSV/Excel → clean data + quality report (dedupe, VND amounts, dates, emails, phones) | pandas, openpyxl || [data-cleaning-toolkit](https://github.com/konjailc1/data-cleaning-toolkit) | Messy data → analysis-ready + quality report | pandas, Faker, pytest |
 | [excel-report-automation](https://github.com/konjailc1/excel-report-automation) | One-command weekly Excel report with charts | openpyxl |
 | [invoice-pdf-extractor](https://github.com/konjailc1/invoice-pdf-extractor) | PDF invoices → Excel with validation | pdfplumber |
 | [ai-data-enrichment](https://github.com/konjailc1/ai-data-enrichment) | AI categories, summaries, sentiment | Gemini API |
