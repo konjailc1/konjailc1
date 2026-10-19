@@ -25,7 +25,7 @@ test every line I ship.
 | [data-cleaning-toolkit](https://github.com/konjailc1/data-cleaning-toolkit) | Messy CSV/Excel → clean data + quality report (dedupe, VND amounts, dates, emails, phones) | pandas, openpyxl |
 | [excel-report-automation](https://github.com/konjailc1/excel-report-automation) | One-command weekly Excel report: KPI cards, pivots, charts + bilingual (VI/EN) commentary | pandas, openpyxl |
 | [invoice-pdf-extractor](https://github.com/konjailc1/invoice-pdf-extractor) | Vietnamese PDF invoices → validated Excel (totals, VAT, tax code checks, error report) | pdfplumber, pandas, openpyxl |
-| [ai-data-enrichment](https://github.com/konjailc1/ai-data-enrichment) | Messy Vietnamese product/customer data → Gemini-enriched, validated bilingual Excel (batching, cache, offline mode) | google-genai, pandas, openpyxl |
+| [ai-data-enrichment](https://github.com/konjailc1/ai-data-enrichment) · [🔗 Live demo](https://ai-data-enrichment.streamlit.app) | Messy Vietnamese product/customer data → Gemini-enriched, validated bilingual Excel (batching, cache, offline mode, web app) | google-genai, pandas, openpyxl, Streamlit |
 | [Portfolio & live demo](https://konjailc1.github.io) | All projects in one place + Streamlit dashboard | Streamlit, GitHub Pages |
 
 ## 🧰 Tech stack
